@@ -1,0 +1,16 @@
+*{
+    background-color: darkslateblue;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@MEDIA (min-width: 640px){
+    body{
+        background-color: #ed72b2;
+    }
+    h1{
+        color: #fff;
+    }
+}
